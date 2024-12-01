@@ -16,6 +16,7 @@ namespace ExcelDNA
         {
             return Motor.powern(kwAxis);
         }
+
         /// <summary>
         /// 电机功率,kW
         /// </summary>
